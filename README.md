@@ -6,7 +6,7 @@ The Smart Trash Can project is an Arduino-based automated trash can that uses an
 
 # Components
 - Arduino board
-- Servo mtor
+- Servo motor
 - Ultrasonic sensor (HC-SR04)
 - Jumper wires
 - Breadboard
